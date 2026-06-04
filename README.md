@@ -1,5 +1,4 @@
-# Stylish-Git
-Hello Developers.....# 💫 About Me:
+# 💫 About Me:
  👋 About Me<br><br>- 🔭 I'm currently working on **SaaS platforms with PERN stack** at Microbane Private Limited.<br>- 🌱 I'm learning **TypeScript, Next.js, and GraphQL**.<br>- 👯 I'm looking to collaborate on **open source full-stack & React Native projects**.<br>- 💬 Ask me about **React, Node.js, PostgreSQL, or publishing apps to the Play Store**.<br>- 🚀 Fun fact: I built an AI-powered website generator that creates a full site in under 5 minutes – it's live on the Google Play Store!
 
 
